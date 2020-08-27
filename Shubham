@@ -30,7 +30,7 @@ def jalan(z):
 time.sleep(0.5)
 user = raw_input('[💀] Target Username/ID/Email >>?? ')
 time.sleep(0.8)
-wrdlstFileName = raw_input('\n[💀] choose a Wordlist from here = sg1050.txt0 , sg110.txt ,  wordpass.txt >> ')
+wrdlstFileName = raw_input('\n[💀] choose a Wordlist from here = Sg1.txt , Sg2.txt , Sg3.txt  wordpass.txt >> ')
 try:
     wordlist = open(wrdlstFileName, 'r')
 except FileNotFoundError:
