@@ -23,3 +23,27 @@ Facebook  : https://m.facebook.com/shubham.gosain.980
 
 Telegram :
 https://t.me/ShuBham_g0sain
+
+### installation
+
+pkg update 
+
+ pkg upgrade 
+
+pkg install git 
+
+pkg install python2 
+
+pip2 install --upgrade pip
+
+git clone https://github.com/shubhamggosai /Fbbrute
+
+cd Fbbrute
+
+pip2 install requests 
+
+pip2 install mechanize
+ 
+chmod 777 Shubham
+
+python2 Shubham
