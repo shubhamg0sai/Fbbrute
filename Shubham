@@ -5,7 +5,7 @@
 
 import time
 import os
-
+[Hide]
 os.system('clear')
 time.sleep(0.5)
 try:
@@ -18,17 +18,17 @@ def jalan(z):
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(0.07)
-
-
-time.sleep(0.5)
-
-user = raw_input('#############################################
+                  #############################################
                   #                                           #
                   #    Facebook BruteForce, by ShuBham        #
                   #    Facebook Contact:    919557777030      #
                   #                                           #
                   #############################################
-                [💀] Target Username/ID/Email >>?? ')
+ [Hide]
+
+time.sleep(0.5)
+
+user = raw_input('[💀] Target Username/ID/Email/phone >>?? ')
 time.sleep(0.8)
 wrdlstFileName = raw_input('\n[💀] choose a Wordlist from here = Sg0.txt ## Sg1.txt ## Sg2.txt ## Sg4.txt ## Sg3.txt ## passwords.txt ## xato-net-10-million-passwords-dup.txt ## xato-net-10-million-passwords-1000000.txt ## Word.txt ## 1pass01.txt ## 1pass02.txt ## 1pass03.txt ..... wordpass.txt >> ')
 try:
