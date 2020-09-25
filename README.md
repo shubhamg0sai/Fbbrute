@@ -44,6 +44,6 @@ pip2 install requests
 
 pip2 install mechanize
  
-chmod 777 Shubham
+chmod 777 Shubham or python.py
 
-python2 Shubham
+python2 Shubham or python.py
