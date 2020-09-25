@@ -1,14 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
         
-        
-        #############################################
-        #                                           #
-        #    Facebook BruteForce, by ShuBham        #
-        #    Facebook Contact:    919557777030      #
-        #                                           #
-        #############################################
-
+       
 
 import time
 import os
@@ -28,6 +21,13 @@ def jalan(z):
 
 
 time.sleep(0.5)
+        #############################################
+        #                                           #
+        #    Facebook BruteForce, by ShuBham        #
+        #    Facebook Contact:    919557777030      #
+        #                                           #
+        #############################################
+
 user = raw_input('[💀] Target Username/ID/Email >>?? ')
 time.sleep(0.8)
 wrdlstFileName = raw_input('\n[💀] choose a Wordlist from here = Sg0.txt ## Sg1.txt ## Sg2.txt ## Sg4.txt ## Sg3.txt ## passwords.txt ## xato-net-10-million-passwords-dup.txt ## xato-net-10-million-passwords-1000000.txt ## Word.txt ## 1pass01.txt ## 1pass02.txt ## 1pass03.txt ..... wordpass.txt >> ')
