@@ -34,7 +34,7 @@ pkg install python2
 
 pip2 install --upgrade pip
 
-git clone https://github.com/shubhamggosai/Fbbrute
+git clone https://github.com/ShuBhamg0sain/Fbbrute
 
 cd Fbbrute
 
