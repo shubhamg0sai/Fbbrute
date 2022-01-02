@@ -2,7 +2,7 @@
 # Find me on 
 
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 
 ### installation
@@ -17,7 +17,7 @@ pkg install python2
 
 pip2 install --upgrade pip
 
-git clone https://github.com/ShuBhamg0sain/Fbbrute
+git clone https://github.com/shubhamg0sai/Fbbrute
 
 cd Fbbrute
 
