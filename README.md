@@ -13,6 +13,8 @@ pkg update
 
 pkg install git 
 
+pkg install figlet
+
 pkg install python2 
 
 pip2 install --upgrade pip
